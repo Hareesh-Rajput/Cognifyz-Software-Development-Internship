@@ -58,19 +58,19 @@ Task-1-Guess-The-Number-Game
 
 ### 🎯 Game Interface
 
-![Game Interface](screenshots/game-interface.png)
+![Game Interface](1.png)
 
 ---
 
 ### ✅ Correct Guess Result
 
-![Correct Guess](screenshots/correct-guess.png)
+![Correct Guess](3.png)
 
 ---
 
 ### ⚙️ Backend Running
 
-![Backend Running](screenshots/backend-running.png)
+![Backend Running](2.png)
 
 ---
 
