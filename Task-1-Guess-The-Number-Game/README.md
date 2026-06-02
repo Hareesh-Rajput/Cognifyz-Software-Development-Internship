@@ -64,13 +64,13 @@ Task-1-Guess-The-Number-Game
 
 ### ✅ Correct Guess Result
 
-![Correct Guess](3.png)
+![Correct Guess](2.png)
 
 ---
 
 ### ⚙️ Backend Running
 
-![Backend Running](2.png)
+![Backend Running](3.png)
 
 ---
 
